@@ -1,0 +1,27 @@
+{
+  "name": "license-system",
+  "version": "1.0.0",
+  "description": "A simple license verification system for Discord bots and applications",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "license",
+    "verification",
+    "api",
+    "discord",
+    "bot",
+    "express"
+  ],
+  "author": "z5ome",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

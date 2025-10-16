@@ -1,0 +1,12 @@
+{
+    "licenses": {
+        "example-license-key": {
+            "active": true,
+            "expiresAt": "2025-12-31",
+            "bots": [
+                "example-bot-id-1",
+                "example-bot-id-2"
+            ]
+        }
+    }
+}
